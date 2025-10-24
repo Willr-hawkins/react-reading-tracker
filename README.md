@@ -44,10 +44,6 @@ npm start
 
 The app will open at `http://localhost:3000`
 
-## Screenshots
-
-[You can add screenshots here later if you want]
-
 ## Future Enhancements
 
 Potential features to add:
